@@ -1,5 +1,4 @@
 import os
-import urllib.request as request
 import zipfile
 import gdown
 from cnnClassifier import logger
