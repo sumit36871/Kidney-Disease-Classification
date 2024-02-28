@@ -875,3 +875,17 @@ x==========x]
 [2024-02-28 18:59:01,876: INFO: common: yaml file: params.yaml loaded successfully]
 [2024-02-28 18:59:01,877: INFO: common: created directory at: artifacts]
 [2024-02-28 18:59:01,879: INFO: common: created directory at: artifacts\training]
+[2024-02-28 20:38:32,534: INFO: main: >>>>>> stage Training completed <<<<<<
+
+x==========x]
+[2024-02-28 20:38:32,560: INFO: main: ***********************]
+[2024-02-28 20:38:32,572: INFO: main: >>>>>> stage Evaluation stage started <<<<<<]
+[2024-02-28 20:38:32,685: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-28 20:38:32,707: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-28 20:38:32,717: INFO: common: created directory at: artifacts]
+[2024-02-28 20:46:44,912: INFO: common: json file saved at: scores.json]
+[2024-02-28 20:46:44,917: INFO: common: json file saved at: scores.json]
+[2024-02-28 20:46:44,919: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
+
+x==========x]
+[2024-02-28 20:46:46,851: INFO: _internal: 127.0.0.1 - - [28/Feb/2024 20:46:46] "GET /train HTTP/1.1" 200 -]
